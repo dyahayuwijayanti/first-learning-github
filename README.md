@@ -1,17 +1,22 @@
-# First GitHub Repository
+# Learning GitHub & Python
 
-Hi! ❣️❣️
-I'm an Engineering Physics graduate who is starting to learn GitHub, data analysis, and machine learning.
+This repository documents my learning journey in GitHub, Python, and data analysis.
+It contains beginner-level projects and notes created step by step.
 
-This repository is used to document my learning progress and small experiments.
+## Repository Structure
+- `python-basic/`  
+  Basic Python scripts and introductory notebooks.
+- `data-analysis-basic/`  
+  Simple data analysis notebooks using pandas and matplotlib.
+- `learning_log.md`  
+  Daily learning notes and progress tracking.
 
-## Currently learning
-- Git & GitHub basics
-- Python
-- Data analysis
-- Machine learning fundamentals
+## Topics Covered
+- GitHub fundamentals
+- Python basics
+- Data analysis with pandas
+- Simple data visualization
 
 ## Notes
-This is a beginner repository. Improvements will be added gradually.
-# first-learning-github
-My first GitHub repository — learning step by step
+This repository is intended for learning purposes.
+Contents will be improved and expanded gradually.
